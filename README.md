@@ -32,7 +32,6 @@ I'll split this process in three levels (basic, intermediate, ninja) to organize
 - [Javascript: Understanding the weird parts](https://www.udemy.com/understand-javascript/learn/v4/overview)
 - [You don't know JS: Up & going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
 - [You don't know JS: Types and grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
-
 - [Unit Testing in Javascript](https://www.youtube.com/watch?v=Eu35xM76kKY&list=PL0zVEGEvSaeF_zoW9o66wa_UCNE3a7BEr)
 - [You don't know JS: Scope and closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
 - [Iterators and generators](https://www.youtube.com/watch?v=W4brAobC2Hc&list=PL0zVEGEvSaeG2T5n8FuPGb11JHea7idb9)
@@ -46,6 +45,16 @@ I'll split this process in three levels (basic, intermediate, ninja) to organize
 - [JS with promises](https://www.safaribooksonline.com/library/view/javascript-with-promises/9781491930779/)
 - [Test-driven javascript development](https://www.safaribooksonline.com/library/view/test-driven-javascript-development/9780321684097/)
 - [Javascript patterns](https://www.safaribooksonline.com/library/view/javascript-patterns/9781449399115/)
-- Server side rendering
-- PWA's
-- 
+
+
+## Bonus track (high level stuffs)
+
+- [Condor Labs API Guidelines](https://trello.com/c/p1ogvkXj/2-http-rest-apis)
+- [The 12 factors](https://12factor.net/)
+- [React patterns](https://krasimir.gitbooks.io/react-in-patterns/content/)
+- [NodeJS](https://courses.wesbos.com/account/access/59136dcc7d90592878f993b5)
+- [Webpack](https://www.udemy.com/webpack-2-the-complete-developers-guide/learn/v4/overview)
+- [AWS](https://www.udemy.com/aws-certified-solutions-architect-associate/learn/v4/overview)
+- [Nginx](https://www.safaribooksonline.com/library/view/nginx-essentials/9781785289538/)
+- [NoSql destilled](https://www.safaribooksonline.com/library/view/nosql-distilled-a/9780133036138/)
+
