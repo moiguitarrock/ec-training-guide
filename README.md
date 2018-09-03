@@ -1,9 +1,6 @@
 # EC training guide
 
-Hi guys, this is a learning path designed for Condor labs developers but focus in the necessities of the Evercheck product. Here you will find material to increase the skills related to three principal branches: Javascript, HTML, and CSS.
-
-I'll split this process in three levels (basic, intermediate, ninja) to organize a little
-
+Hi guys, this is a learning path designed for Condor labs developers but focus on the necessities of the Evercheck product. Here you will find material to increase the skills related to the principal branches: Javascript, HTML, and CSS Network basic concepts.
 
 ## Level 1 (Understanding the Basics)
 
@@ -65,6 +62,14 @@ I'll split this process in three levels (basic, intermediate, ninja) to organize
 - [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 - [DNS concepts](https://www.digitalocean.com/community/tutorials/an-introduction-to-dns-terminology-components-and-concepts)
 
+----
+
+**Note:** Before start the next level, please check it out the following link:
+
+- [Condor Labs API Guidelines](https://trello.com/c/p1ogvkXj/2-http-rest-apis)
+
+----
+
 ## Level 3 (ninja mode)
 
 ### Javascript
@@ -88,7 +93,6 @@ I'll split this process in three levels (basic, intermediate, ninja) to organize
 
 ## Bonus track (high level stuffs)
 
-- [Condor Labs API Guidelines](https://trello.com/c/p1ogvkXj/2-http-rest-apis)
 - [The 12 factors](https://12factor.net/)
 - [Mastering git](https://app.pluralsight.com/library/courses/mastering-git/table-of-contents)
 - [Inclusive design patterns](https://www.dropbox.com/s/ctjxx8elx8sclu3/inclusive-design-patterns.pdf?dl=0)
