@@ -21,14 +21,25 @@ I'll split this process in three levels (basic, intermediate, ninja) to organize
 
 ### HTML
 
+- [HTML5 the missing manual](https://www.safaribooksonline.com/library/view/html5-the-missing/9781449373412/)
 
 ### CSS
 
+- [CSS Grid - Wes Bos](https://courses.wesbos.com/account)
+- [CSS the missing manual](https://www.safaribooksonline.com/library/view/css-the-missing/9781491918043/)
+- [CSS secrets](https://trello.com/c/b9gvdyAw/7-css-secrets)
+
 ## Level 2 (going deeper)
+
+### UX
+
+- [Don't make me think](https://www.safaribooksonline.com/library/view/dont-make-me/9780133597271/)
 
 ### Javascript
 
 - [The mystery of `this`](https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/)
+- [ES6 Modules in depth](https://ponyfoo.com/articles/es6-modules-in-depth)
+- [Modules](http://exploringjs.com/es6/ch_modules.html#ch_modules)
 - [Javascript: Understanding the weird parts](https://www.udemy.com/understand-javascript/learn/v4/overview)
 - [You don't know JS: Up & going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
 - [You don't know JS: Types and grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
@@ -38,6 +49,8 @@ I'll split this process in three levels (basic, intermediate, ninja) to organize
 
 ## Level 3 (ninja mode)
 
+### Javascript
+
 - [You don't know JS: ES6 and beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
 - [ES6](https://courses.wesbos.com/account/access/59721b294a00473edd15f653/view/175171462)
 - [JS regular expressions](http://codylindley.com/techpro/2013_05_14__javascript-regular-expression-/)
@@ -46,15 +59,21 @@ I'll split this process in three levels (basic, intermediate, ninja) to organize
 - [Test-driven javascript development](https://www.safaribooksonline.com/library/view/test-driven-javascript-development/9780321684097/)
 - [Javascript patterns](https://www.safaribooksonline.com/library/view/javascript-patterns/9781449399115/)
 
+### HTML + CSS
+
+- [Responsive web design](https://www.safaribooksonline.com/library/view/responsive-web-design/9781784398934/)
 
 ## Bonus track (high level stuffs)
 
 - [Condor Labs API Guidelines](https://trello.com/c/p1ogvkXj/2-http-rest-apis)
 - [The 12 factors](https://12factor.net/)
+- [Mastering git](https://app.pluralsight.com/library/courses/mastering-git/table-of-contents)
+- [Inclusive design patterns](https://www.dropbox.com/s/ctjxx8elx8sclu3/inclusive-design-patterns.pdf?dl=0)
 - [React patterns](https://krasimir.gitbooks.io/react-in-patterns/content/)
 - [NodeJS](https://courses.wesbos.com/account/access/59136dcc7d90592878f993b5)
 - [Webpack](https://www.udemy.com/webpack-2-the-complete-developers-guide/learn/v4/overview)
 - [AWS](https://www.udemy.com/aws-certified-solutions-architect-associate/learn/v4/overview)
-- [Nginx](https://www.safaribooksonline.com/library/view/nginx-essentials/9781785289538/)
+- [MongoDB](https://www.udemy.com/mongoosejs-essentials/learn/v4/overview)
 - [NoSql destilled](https://www.safaribooksonline.com/library/view/nosql-distilled-a/9780133036138/)
+- [Nginx](https://www.safaribooksonline.com/library/view/nginx-essentials/9781785289538/)
 
