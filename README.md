@@ -1,4 +1,4 @@
-# ec-training-guide
+# EC training guide
 
 Hi guys, this is a learning path designed for Condor labs developers but focus in the necessities of the Evercheck product. Here you will find material to increase the skills related to three principal branches: Javascript, HTML, and CSS.
 
@@ -22,12 +22,20 @@ I'll split this process in three levels (basic, intermediate, ninja) to organize
 ### HTML
 
 - [HTML5 the missing manual](https://www.safaribooksonline.com/library/view/html5-the-missing/9781449373412/)
+- [HTML & CSS](https://www.safaribooksonline.com/library/view/html-css/9781118206911/)
 
 ### CSS
 
-- [CSS Grid - Wes Bos](https://courses.wesbos.com/account)
+- [CSS Diner](http://flukeout.github.io/)
 - [CSS the missing manual](https://www.safaribooksonline.com/library/view/css-the-missing/9781491918043/)
 - [CSS secrets](https://trello.com/c/b9gvdyAw/7-css-secrets)
+
+### Network
+
+- [Hosting](https://www.udemy.com/web-hosting-101/)
+- [HTTP Overview](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+- [HTTP status codes](https://httpstatuses.com/)
+
 
 ## Level 2 (going deeper)
 
@@ -47,6 +55,16 @@ I'll split this process in three levels (basic, intermediate, ninja) to organize
 - [You don't know JS: Scope and closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
 - [Iterators and generators](https://www.youtube.com/watch?v=W4brAobC2Hc&list=PL0zVEGEvSaeG2T5n8FuPGb11JHea7idb9)
 
+### HTML + CSS
+
+- [CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [CSS Grid - Wes Bos](https://courses.wesbos.com/account)
+
+### Network
+
+- [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+- [DNS concepts](https://www.digitalocean.com/community/tutorials/an-introduction-to-dns-terminology-components-and-concepts)
+
 ## Level 3 (ninja mode)
 
 ### Javascript
@@ -62,6 +80,11 @@ I'll split this process in three levels (basic, intermediate, ninja) to organize
 ### HTML + CSS
 
 - [Responsive web design](https://www.safaribooksonline.com/library/view/responsive-web-design/9781784398934/)
+- [Animations](https://www.kirupa.com/html5/learn_animation.htm)
+
+### Network
+
+- [High performance browser networking](https://www.safaribooksonline.com/library/view/high-performance-browser/9781449344757/)
 
 ## Bonus track (high level stuffs)
 
@@ -70,6 +93,7 @@ I'll split this process in three levels (basic, intermediate, ninja) to organize
 - [Mastering git](https://app.pluralsight.com/library/courses/mastering-git/table-of-contents)
 - [Inclusive design patterns](https://www.dropbox.com/s/ctjxx8elx8sclu3/inclusive-design-patterns.pdf?dl=0)
 - [React patterns](https://krasimir.gitbooks.io/react-in-patterns/content/)
+- [SEO](https://support.google.com/webmasters/answer/7451184?hl=en)
 - [NodeJS](https://courses.wesbos.com/account/access/59136dcc7d90592878f993b5)
 - [Webpack](https://www.udemy.com/webpack-2-the-complete-developers-guide/learn/v4/overview)
 - [AWS](https://www.udemy.com/aws-certified-solutions-architect-associate/learn/v4/overview)
