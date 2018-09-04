@@ -33,6 +33,9 @@ Hi guys, this is a learning path designed for Condor labs developers but focus o
 - [HTTP Overview](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
 - [HTTP status codes](https://httpstatuses.com/)
 
+### Others
+
+- [Clean code](https://www.safaribooksonline.com/videos/clean-code-applied/9780134843810)
 
 ## Level 2 (going deeper)
 
@@ -74,6 +77,7 @@ Hi guys, this is a learning path designed for Condor labs developers but focus o
 
 ### Javascript
 
+- [JS Design patterns](https://www.safaribooksonline.com/videos/javascript-design-patterns/9781785888014)
 - [You don't know JS: ES6 and beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
 - [ES6](https://courses.wesbos.com/account/access/59721b294a00473edd15f653/view/175171462)
 - [JS regular expressions](http://codylindley.com/techpro/2013_05_14__javascript-regular-expression-/)
@@ -90,6 +94,11 @@ Hi guys, this is a learning path designed for Condor labs developers but focus o
 ### Network
 
 - [High performance browser networking](https://www.safaribooksonline.com/library/view/high-performance-browser/9781449344757/)
+
+### Others
+
+- [Clean Architecture](https://www.safaribooksonline.com/library/view/clean-architecture-a/9780134494272/)
+- [The Art of scalability](https://www.safaribooksonline.com/library/view/the-art-of/9780134031408/)
 
 ## Bonus track (high level stuffs)
 
