@@ -114,3 +114,6 @@ Hi guys, this is a learning path designed for Condor labs developers but focus o
 - [NoSql destilled](https://www.safaribooksonline.com/library/view/nosql-distilled-a/9780133036138/)
 - [Nginx](https://www.safaribooksonline.com/library/view/nginx-essentials/9781785289538/)
 
+---
+
+**Note:** Some of the books mentioned here are in a printed version in the company's library, ask me for the availability.
